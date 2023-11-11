@@ -12,7 +12,7 @@
 <img align="left" alt="php" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-
+<br/>
 
 ### Tools
 <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" />
@@ -25,7 +25,7 @@
 
 
 <br />
-###Design Tools
+### Design Tools
 
 <!--
 **Junior-Masete/Junior-Masete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
