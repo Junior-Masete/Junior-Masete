@@ -1,5 +1,7 @@
 ### Hi there, Welcome to Junior Masete's Profile!! 👋
-
+<p> I am skilled in creating usable and interactive website.</p> <br/>
+<p>I focus more on the front-end and design. </p><br/>
+<p>My journey began from "<h1>Hello World</h1>" to now complex projects</h1></p>
 <hr/>
 
 ### <b>Skills and Tools</b>
