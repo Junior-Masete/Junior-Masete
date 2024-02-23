@@ -33,6 +33,11 @@
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/25/444/png-transparent-adobe-animate-macos-bigsur-icon-thumbnail.png" />
 
+<hr/>
+
+<a><img src="https://github-readme-stats.vercel.app/api?username=junior-masete&show_icons=true&layout=compact&langs_count=12&theme=transparent&hide_border=true"></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior-masete&layout=compact&langs_count=12&theme=transparent&hide_border=true"></a>
+
 <!--
 **Junior-Masete/Junior-Masete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
